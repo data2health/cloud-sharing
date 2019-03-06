@@ -1,2 +1,2 @@
 
-Participants effor that will be put to good use 
+Participants effort that will be put to good use 
