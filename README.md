@@ -28,7 +28,7 @@ Team members can be found [here](https://github.com/data2health/cloud-sharing/tr
  n/a
 
 ## Deliverables
-- OMOP datasets from Wash U, UW, and Data QUEST shared in the cloud and harmonized across a vX OMOP data model, with a minimum level of data quality.
+-OMOP datasets from Wash U, UW, and Data QUEST shared in the cloud and harmonized across a vX OMOP data model, with a minimum level of data quality.
 
 -NCATS cloud environment configured for storage of the OMOP datasets and Leaf and DQe-c tools up and running - laying a foundation for future cloud data and tool usage
 
