@@ -6,7 +6,7 @@ CTSAs use federated networks within and between themselves with little to no abi
 
 
 ## Alignment to program objectives
-TODO see [here](https://github.com/data2health/operations/blob/master/foa.md)
+TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 
 ## Contact person
