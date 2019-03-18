@@ -5,6 +5,10 @@ CTSAs are struggling to leverage cloud based data sharing architectures to suppo
 CTSAs use federated networks within and between themselves with little to no ability to interoperate, bottlenecked by human analysts for access to aggregated and raw datasets. CTSAs are struggling to leverage cloud based data sharing architectures to support federated ownership of datasets, both technologically and socially through proper scalable governance solutions aimed at research use. CTSAs are missing out on capitalizing on the many innovations and efficiencies the cloud offers for both existing and future software tools for big data, which include elasticity, scalability, state-of-the-art cybersecurity capabilities, economies of scale (e.g., paying for utilization only).
 
 
+## Alignment to program objectives
+TODO see [here](https://github.com/data2health/operations/blob/master/foa.md)
+
+
 ## Contact person
 
 Point person (github handle) | Site | Program Director
