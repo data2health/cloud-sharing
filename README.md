@@ -13,7 +13,7 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Kari Stephens (@kstephen0909) | UW | Sean Mooney (@sdmooney)
+Kari Stephens (@kstephen0909) | UW | Adam Wilcox (@abwilcox)
 
 
 ## Leads 
@@ -21,7 +21,7 @@ Kari Stephens (@kstephen0909) | UW | Sean Mooney (@sdmooney)
 Lead(s) (github handle) | Site
 ----------|--------------|
 Kari Stephens (@kstephen0909) | UW
-Sean Mooney (@sdmooney) | UW
+
 
 
 ## Team members 
